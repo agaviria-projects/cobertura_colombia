@@ -56,7 +56,7 @@ Cada tabla mantiene integridad referencial mediante claves foráneas (`FOREIGN K
 
 ## 🧩 Modelo relacional
 ### 📊 Diagrama visual
-![Modelo Entidad-Relación](./Modelo.png)
+![Modelo ER](./modelo.jpg)
 
 ---
 
