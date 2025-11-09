@@ -135,10 +135,30 @@ Sirve como práctica profesional de modelado relacional, limpieza de datos y car
 
 ---
 ### 📊 Consultas de creación y carga
+
 | A | B | C |
 |---|---|---|
-| ![A](https://github.com/agaviria-projects/cobertura_colombia/blob/main/A.JPG) | ![B](https://github.com
+| ![A](https://github.com/agaviria-projects/cobertura_colombia/blob/main/A.JPG) | ![B](https://github.com/agaviria-projects/cobertura_colombia/blob/main/B.JPG) | ![C](https://github.com/agaviria-projects/cobertura_colombia/blob/main/C.JPG) |
 
+| D | E | F |
+|---|---|---|
+| ![D](https://github.com/agaviria-projects/cobertura_colombia/blob/main/D.JPG) | ![E](https://github.com/agaviria-projects/cobertura_colombia/blob/main/E.JPG) | ![F](https://github.com/agaviria-projects/cobertura_colombia/blob/main/F.JPG) |
+
+| G | H | I |
+|---|---|---|
+| ![G](https://github.com/agaviria-projects/cobertura_colombia/blob/main/G.JPG) | ![H](https://github.com/agaviria-projects/cobertura_colombia/blob/main/H.JPG) | ![I](https://github.com/agaviria-projects/cobertura_colombia/blob/main/I.JPG) |
+
+| J | K | L |
+|---|---|---|
+| ![J](https://github.com/agaviria-projects/cobertura_colombia/blob/main/J.JPG) | ![K](https://github.com/agaviria-projects/cobertura_colombia/blob/main/K.JPG) | ![L](https://github.com/agaviria-projects/cobertura_colombia/blob/main/L.JPG) |
+
+| M | N | O |
+|---|---|---|
+| ![M](https://github.com/agaviria-projects/cobertura_colombia/blob/main/M.JPG) | ![N](https://github.com/agaviria-projects/cobertura_colombia/blob/main/N.JPG) | ![O](https://github.com/agaviria-projects/cobertura_colombia/blob/main/O.JPG) |
+
+| P | Q |
+|---|---|
+| ![P](https://github.com/agaviria-projects/cobertura_colombia/blob/main/P.JPG) | ![Q](https://github.com/agaviria-projects/cobertura_colombia/blob/main/Q.JPG) |
 📘 **Versión:** Noviembre 2025  
 📍 **Repositorio:** [agaviria-projects / proyecto_cobertura_colombia](https://github.com/agaviria-projects/proyecto_cobertura_colombia)
 
